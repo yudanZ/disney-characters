@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/disney-characters/static/css/main.53ee7564.chunk.css",
+    "main.js": "/disney-characters/static/js/main.eab1267a.chunk.js",
+    "main.js.map": "/disney-characters/static/js/main.eab1267a.chunk.js.map",
+    "runtime-main.js": "/disney-characters/static/js/runtime-main.2c453e7e.js",
+    "runtime-main.js.map": "/disney-characters/static/js/runtime-main.2c453e7e.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/disney-characters/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.993c3764.chunk.js": "/disney-characters/static/js/2.993c3764.chunk.js",
+    "static/js/2.993c3764.chunk.js.map": "/disney-characters/static/js/2.993c3764.chunk.js.map",
+    "index.html": "/disney-characters/index.html",
+    "precache-manifest.dec95aa3828c1570fd6c2bd83c7aecf2.js": "/disney-characters/precache-manifest.dec95aa3828c1570fd6c2bd83c7aecf2.js",
+    "service-worker.js": "/disney-characters/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/disney-characters/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.53ee7564.chunk.css.map": "/disney-characters/static/css/main.53ee7564.chunk.css.map",
+    "static/js/2.993c3764.chunk.js.LICENSE.txt": "/disney-characters/static/js/2.993c3764.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c453e7e.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.993c3764.chunk.js",
+    "static/css/main.53ee7564.chunk.css",
+    "static/js/main.eab1267a.chunk.js"
+  ]
+}
